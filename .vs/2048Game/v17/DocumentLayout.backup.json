@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2048-mfc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF0FC5-C5D4-467D-A0C7-E30FBF6C83E9}|2048Game\\2048Game.vcxproj|D:\\2048-mfc\\2048Game\\MainFrm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56BF0FC5-C5D4-467D-A0C7-E30FBF6C83E9}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\MainFrm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF0FC5-C5D4-467D-A0C7-E30FBF6C83E9}|2048Game\\2048Game.vcxproj|D:\\2048-mfc\\2048Game\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56BF0FC5-C5D4-467D-A0C7-E30FBF6C83E9}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF0FC5-C5D4-467D-A0C7-E30FBF6C83E9}|2048Game\\2048Game.vcxproj|D:\\2048-mfc\\2048Game\\2048GameDoc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56BF0FC5-C5D4-467D-A0C7-E30FBF6C83E9}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\2048GameDoc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BF0FC5-C5D4-467D-A0C7-E30FBF6C83E9}|2048Game\\2048Game.vcxproj|D:\\2048-mfc\\2048Game\\2048GameView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56BF0FC5-C5D4-467D-A0C7-E30FBF6C83E9}|2048Game\\2048Game.vcxproj|solutionrelative:2048Game\\2048GameView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2048GameDoc.cpp",
+              "DocumentMoniker": "D:\\2048-mfc\\2048Game\\2048GameDoc.cpp",
+              "RelativeDocumentMoniker": "2048Game\\2048GameDoc.cpp",
+              "ToolTip": "D:\\2048-mfc\\2048Game\\2048GameDoc.cpp",
+              "RelativeToolTip": "2048Game\\2048GameDoc.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAOIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T08:45:47.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2048GameView.cpp",
+              "DocumentMoniker": "D:\\2048-mfc\\2048Game\\2048GameView.cpp",
+              "RelativeDocumentMoniker": "2048Game\\2048GameView.cpp",
+              "ToolTip": "D:\\2048-mfc\\2048Game\\2048GameView.cpp",
+              "RelativeToolTip": "2048Game\\2048GameView.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T08:45:35.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "D:\\2048-mfc\\2048Game\\Button.cpp",
+              "RelativeDocumentMoniker": "2048Game\\Button.cpp",
+              "ToolTip": "D:\\2048-mfc\\2048Game\\Button.cpp",
+              "RelativeToolTip": "2048Game\\Button.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T08:45:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainFrm.cpp",
+              "DocumentMoniker": "D:\\2048-mfc\\2048Game\\MainFrm.cpp",
+              "RelativeDocumentMoniker": "2048Game\\MainFrm.cpp",
+              "ToolTip": "D:\\2048-mfc\\2048Game\\MainFrm.cpp*",
+              "RelativeToolTip": "2048Game\\MainFrm.cpp*",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAM0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T14:21:42.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
